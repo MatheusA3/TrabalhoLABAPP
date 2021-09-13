@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/User/.m2/repository/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar;C:/Users/User/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar;C:/Users/User/.m2/repository/org/apache/poi/poi/3.10-FINAL/poi-3.10-FINAL.jar;C:/Users/User/.m2/repository/commons-codec/commons-codec/1.5/commons-codec-1.5.jar;C:/Users/User/.m2/repository/net/sourceforge/barbecue/barbecue/1.5-beta1/barbecue-1.5-beta1.jar;C:/Users/User/.m2/repository/net/sf/jasperreports/jasperreports/5.0.1/jasperreports-5.0.1.jar;C:/Users/User/.m2/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar;C:/Users/User/.m2/repository/commons-collections/commons-collections/2.1/commons-collections-2.1.jar;C:/Users/User/.m2/repository/commons-digester/commons-digester/2.1/commons-digester-2.1.jar;C:/Users/User/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar;C:/Users/User/.m2/repository/com/lowagie/itext/2.1.7.js1/itext-2.1.7.js1.jar;C:/Users/User/.m2/repository/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138.jar;C:/Users/User/.m2/repository/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138.jar;C:/Users/User/.m2/repository/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar;C:/Users/User/.m2/repository/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar;C:/Users/User/.m2/repository/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar;C:/Users/User/.m2/repository/jfree/jcommon/1.0.15/jcommon-1.0.15.jar;C:/Users/User/.m2/repository/jfree/jfreechart/1.0.12/jfreechart-1.0.12.jar;C:/Users/User/.m2/repository/xml-apis/xml-apis/1.3.02/xml-apis-1.3.02.jar;C:/Users/User/.m2/repository/eclipse/jdtcore/3.1.0/jdtcore-3.1.0.jar;C:/Users/User/.m2/repository/org/codehaus/castor/castor/1.2/castor-1.2.jar;C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.0.5/jackson-core-2.0.5.jar;C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.0.5/jackson-databind-2.0.5.jar;C:/Users/User/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.0.5/jackson-annotations-2.0.5.jar;C:/Users/User/.m2/repository/net/sf/jasperreports/jasperreports-fonts/4.0.0/jasperreports-fonts-4.0.0.jar;C:/Users/User/.m2/repository/xerces/xercesImpl/2.10.0/xercesImpl-2.10.0.jar;C:/Users/User/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;C:/Users/User/.m2/repository/org/apache/pdfbox/pdfbox/2.0.24/pdfbox-2.0.24.jar;C:/Users/User/.m2/repository/org/apache/pdfbox/fontbox/2.0.24/fontbox-2.0.24.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/User/Documents/NetBeansProjects/TrabalhoLAB/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/User/Documents/NetBeansProjects/TrabalhoLAB/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'TrabalhoLAB 0.1 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/User/Documents/NetBeansProjects/TrabalhoLAB/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'TrabalhoLAB 0.1 API'

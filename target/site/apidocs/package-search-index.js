@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"classes"},{"l":"connection"},{"l":"exportações"},{"l":"frames"},{"l":"patterns"},{"l":"trabalholab"}];updateSearchResults();
