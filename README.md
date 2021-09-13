@@ -4,7 +4,7 @@ Não esqueça de executar o arquivo sql com as criações de tabelas em um banco
 
 Arquivos estão no master
 
-Javadoc está localizado na pasta
+Javadoc está localizado na pasta padrão: target\site\apidocs\help-doc.html
 
 Link do vídeo: https://youtu.be/N6NWpin2mIU
 
